@@ -1,8 +1,6 @@
 # The-Running-Economist
 A personalized execution, observation, and reflection system for running. Smarter miles.
-The Running Economist
-Smarter miles.
-A personalized execution, observation, and reflection system for running.
+
 The Running Economist is a personal running project designed around a specific runner's training history, goals, performance profile, pace/heart-rate/RPE relationships, training principles, and 24-week training schedule.
 The application is designed to answer four questions each day:
 What am I doing today?
